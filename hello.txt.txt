@@ -1,0 +1,9 @@
+var myString =" Rehan";
+var myNumber = 8;
+var myBoolean = true;
+
+
+// Do not edit the code under this line
+console.log("Name: " + myString);
+console.log("LuckyNumber: " + myNumber);
+console.log("Good joke? " + myBoolean);
